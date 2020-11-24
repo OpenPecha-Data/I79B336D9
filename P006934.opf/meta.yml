@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2CZ6024
   title: འཇའ་ཚོན་སྙིང་པོའི་རང་རྣམ
-  volume: ''
+  volume:
+    5dc1e7924b3f44b499ac5843448101b2:
+      image_group_id: I1KG993
+      title: Volume 1 of 'ja' tshon snying po'i rang rnam
+      volume_number: 1
+      total_pages: 428
   author: ''
+ebook_metadata:
+  title: འཇའ་ཚོན་སྙིང་པོའི་རང་རྣམ
+  author: ''
+  sku: P006934
+  cover: cover.jpg
+  layers:
+  - pagination
