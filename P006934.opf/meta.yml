@@ -5,11 +5,12 @@ source_metadata:
   title: འཇའ་ཚོན་སྙིང་པོའི་རང་རྣམ
   author: ''
   volumes:
-    3926ac98eb94407d980cc2f03d5f7fd6:
+    5dc1e7924b3f44b499ac5843448101b2:
       image_group_id: I1KG993
-      title: ''
+      title: Volume 1 of 'ja' tshon snying po'i rang rnam
       volume_number: 1
       total_pages: 428
+      base_file: v001.txt
 ebook_metadata:
   title: འཇའ་ཚོན་སྙིང་པོའི་རང་རྣམ
   author: ''
